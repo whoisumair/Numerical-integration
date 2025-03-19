@@ -3,6 +3,8 @@
 #include <math.h>
 #include <omp.h>
 
+
+
 #define NUM_THREADS 4  // Change this to test with different thread counts
 
 // Function to integrate: f(x) = x^2
