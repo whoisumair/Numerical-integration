@@ -3,6 +3,9 @@
 #include <math.h>
 #include <time.h>
 
+
+
+
 // Function to integrate: f(x) = x^2
 double f(double x) {
     return x * x;
